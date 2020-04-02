@@ -1,0 +1,35 @@
+{
+  "images" : [
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "tile",
+          "width" : 1,
+          "height" : 243
+        },
+        "cap-insets" : {
+          "bottom" : 263,
+          "top" : 355,
+          "right" : 590,
+          "left" : 567
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "lawn-pH.jpg",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
